@@ -1,0 +1,28 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="padding_left">60dp</dimen>
+    <dimen name="padding_top">1dp</dimen>
+    <dimen name="padding_right">16dp</dimen>
+    <dimen name="padding_start">5dp</dimen>
+    <dimen name="padding_bottom">1dp</dimen>
+    <dimen name="padding_end">5dp</dimen>
+    <dimen name="text_size">30sp</dimen>
+    <dimen name="getting_ready">30sp</dimen>
+    <dimen name="getting_ready_layout_margin_top">10sp</dimen>
+    <dimen name="getting_ready_layout_margin_bottom">10sp</dimen>
+
+    <dimen name="padding_left_subtitle">60dp</dimen>
+    <dimen name="padding_top_subtitle">1dp</dimen>
+    <dimen name="padding_right_subtitle">16dp</dimen>
+    <dimen name="padding_bottom_subtitle">1dp</dimen>
+    <dimen name="text_size_subtitle">15sp</dimen>
+    <dimen name="margin_top">5dp</dimen>
+    <dimen name="layout_margin_bottom">2dp</dimen>
+    <dimen name="layout_margin_top">8dp</dimen>
+
+
+    <dimen name="Questions">18sp</dimen>
+    <dimen name="multiple_options">15sp</dimen>
+</resources>
